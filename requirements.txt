@@ -1,0 +1,20 @@
+# Core libraries for data handling and numerics
+pandas==2.1.4
+numpy==1.26.2
+
+# Machine learning library
+scikit-learn==1.3.2
+
+# Library for handling imbalanced data
+imbalanced-learn==0.11.0
+
+# Plotting libraries
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Dependency for reading .xls files with pandas
+xlrd==2.0.1
+
+# For running the code in a notebook environment
+jupyterlab==4.0.9
+notebook==7.0.6
