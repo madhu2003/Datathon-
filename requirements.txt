@@ -1,3 +1,17 @@
+# For XGBoost
+
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+seaborn==0.13.2
+scikit-learn==1.5.0
+xgboost==1.7.6
+ucimlrepo==0.0.7
+scipy==1.13.0
+shap==0.45.0
+joblib==1.4.2
+
+# For Logistic Regression
 # Core libraries for data handling and numerics
 pandas==2.1.4
 numpy==1.26.2
@@ -18,3 +32,5 @@ xlrd==2.0.1
 # For running the code in a notebook environment
 jupyterlab==4.0.9
 notebook==7.0.6
+
+
