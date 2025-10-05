@@ -12,6 +12,9 @@ Soon Si Qi, Kelly
 
 The goal of this project is to develop a machine learning model that accurately classifies fetal health status as **Normal**, **Suspect**, or **Pathologic** based on features extracted from Cardiotocography (CTG) examinations. This addresses the clinical need for reliable, automated monitoring to support timely, life-saving interventions during labor.
 
+## Link to video demo
+https://drive.google.com/file/d/17iwvstL6cRKekfgkgy2hdFx56t40_CLT/view?usp=share_link
+
 
 ## 2. Models Explored
 
