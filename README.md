@@ -1,18 +1,18 @@
 # Fetal Health Classification using Cardiotocography Data
 
-**Project for Datathon 2025**
+## Team Members (TM-213)
+
+Li Qiyue
+Madhumita Jambulingam
+Soon Si Qi, Kelly
 
 ## 1. Objective
 
-The goal of this project is to develop a machine learning model that accurately classifies fetal health status as **Normal**, **Suspect**, or **Pathologic** based on features extracted from Cardiotocography (CTG) examinations. This addresses the clinical need for reliable, automated monitoring to support timely, life-saving interventions during labor, as outlined in the Datathon 2025 booklet.
+The goal of this project is to develop a machine learning model that accurately classifies fetal health status as **Normal**, **Suspect**, or **Pathologic** based on features extracted from Cardiotocography (CTG) examinations. This addresses the clinical need for reliable, automated monitoring to support timely, life-saving interventions during labor.
 
 ## 2. Dataset
 
 This project utilizes the **UCI Cardiotocography Dataset**, a widely studied collection of over 2,000 real CTG traces that have been classified by expert obstetricians.
-
-## 3. Methodology Overview
-
-Our workflow is designed to build a robust and trustworthy predictive model, focusing on data quality and rigorous evaluation.
 
 * **Data Cleaning & Preprocessing:** We performed several steps to ensure data quality, including removing duplicate rows, correcting skewed features using a Yeo-Johnson power transform, and implementing a selective outlier capping strategy to preserve critical clinical signals while reducing noise.
 
@@ -59,10 +59,3 @@ To reproduce the results, run the Jupyter Notebooks in the directory in numerica
 
 2. `02_log_regres.ipynb`: To train and evaluate the Logistic Regression model.
 
-## 7. Team Members
-
-LI QIYUE
-
-MADHU
-
-KELLY
