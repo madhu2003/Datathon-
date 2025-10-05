@@ -54,7 +54,7 @@ This gets us the capabilities and scores for this model.
 
 #### randomForest
 The EDA is in (data_exploration/random_forest/exploratory data analysis.ipynb) which contains the data cleaning and analysis.
-For testing and training of the model, it is in (random forest/training.ipynb).
+For testing and training of the model, it is in (misc/random forest/training.ipynb).
 
 #### XGBoost:
 The EDA is in the data_exploration folder > XGBoost > EDA. This contains the data loading, cleaning and preprocessing steps. 
