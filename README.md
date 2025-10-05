@@ -57,6 +57,12 @@ The EDA is in (data_exploration/random forest/exploratory data analysis.ipynb)
 
 For test and train of the model, it is in 
 
+#### XGBoost:
+The EDA is in the data_exploration folder > XGBoost > EDA. This contains the data loading, cleaning and preprocessing steps. 
+The model training code is in the Train_XGBoost file. 
+The inference for this model is the Inference.py file. 
+These have to be run in order to get the proper results. 
+
 
 
 
