@@ -43,10 +43,10 @@ pip install -r requirements.txt
 ### Running the Notebooks
 
 #### logistic regression
-the EDA is in data_exploration/logistic_regress/data_analysis.ipynb
+the EDA is in (data_exploration/logistic_regress/data_analysis.ipynb)
 this shows how we handled the data for this model 
 
-For test and train, it is in log_reg_traintest/testing.ipynb
+For test and train, it is in (log_reg_traintest/testing.ipynb)
 This gets us the capabilities and scores for this model.
 
 #### randomForest
