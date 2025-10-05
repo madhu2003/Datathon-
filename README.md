@@ -53,7 +53,7 @@ For test and train, it is in (log_reg_traintest/testing.ipynb)
 This gets us the capabilities and scores for this model.
 
 #### randomForest
-The EDA is in (data_exploration/random forest/exploratory data analysis.ipynb) which contains the data cleaning and analysis.
+The EDA is in (data_exploration/random_forest/exploratory data analysis.ipynb) which contains the data cleaning and analysis.
 For testing and training of the model, it is in (random forest/training.ipynb).
 
 #### XGBoost:
